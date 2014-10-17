@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cul:home|Door43 (cul)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cul|d43-cul repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cul/archive/master.zip|d43-cul.zip]]
+
+**Recent Changes**
+{{changes>ns = cul}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cul|Ethnologue data]]
+
